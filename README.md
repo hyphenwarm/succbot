@@ -1,7 +1,7 @@
 # succbot
 NOTE: This bot uses [discord.py](https://github.com/Rapptz/discord.py/tree/rewrite) 1.0.0a. If you want to host a bot using async, i highly recommend [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 The second version of rbot. rbot will be discontinued.
-## Requirements
+## Requirements (not needed because this git is empty)
 * [discord.py 1.0.0a](https://github.com/Rapptz/discord.py/tree/rewrite)
 * Python 3.6+ (not Python 3.5, the bot will break because the code contains 'f' strings.)
 ## How to install
